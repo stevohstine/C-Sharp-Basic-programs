@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\bin\Debug\safaricomApp.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\bin\Debug\safaricomApp.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\bin\Debug\safaricomApp.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\obj\Debug\safaricomApp.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\obj\Debug\safaricomApp.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\safaricomApp\obj\Debug\safaricomApp.pdb

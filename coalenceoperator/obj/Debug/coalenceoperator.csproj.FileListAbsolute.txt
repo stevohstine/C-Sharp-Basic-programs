@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\bin\Debug\coalenceoperator.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\bin\Debug\coalenceoperator.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\bin\Debug\coalenceoperator.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\obj\Debug\coalenceoperator.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\obj\Debug\coalenceoperator.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\coalenceoperator\obj\Debug\coalenceoperator.csprojResolveAssemblyReference.cache

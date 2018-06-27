@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\bin\Debug\csharpstudypracticeCSK.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\bin\Debug\csharpstudypracticeCSK.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\bin\Debug\csharpstudypracticeCSK.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\obj\Debug\csharpstudypracticeCSK.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\obj\Debug\csharpstudypracticeCSK.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\csharpstudypracticeCSK\obj\Debug\csharpstudypracticeCSK.csprojResolveAssemblyReference.cache

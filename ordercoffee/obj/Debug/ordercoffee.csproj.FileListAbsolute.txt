@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\bin\Debug\ordercoffee.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\bin\Debug\ordercoffee.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\bin\Debug\ordercoffee.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\obj\Debug\ordercoffee.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\obj\Debug\ordercoffee.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\ordercoffee\obj\Debug\ordercoffee.pdb

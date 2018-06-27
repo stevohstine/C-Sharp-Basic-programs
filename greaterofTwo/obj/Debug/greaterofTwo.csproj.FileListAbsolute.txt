@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\bin\Debug\greaterofTwo.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\bin\Debug\greaterofTwo.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\bin\Debug\greaterofTwo.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\obj\Debug\greaterofTwo.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\obj\Debug\greaterofTwo.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\greaterofTwo\obj\Debug\greaterofTwo.pdb

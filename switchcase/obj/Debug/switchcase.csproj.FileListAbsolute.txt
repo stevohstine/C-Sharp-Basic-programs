@@ -1,0 +1,5 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchcase\bin\Debug\switchcase.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchcase\bin\Debug\switchcase.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchcase\bin\Debug\switchcase.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchcase\obj\Debug\switchcase.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchcase\obj\Debug\switchcase.pdb

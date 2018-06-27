@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\bin\Debug\comprehensive.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\bin\Debug\comprehensive.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\bin\Debug\comprehensive.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\obj\Debug\comprehensive.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\obj\Debug\comprehensive.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\comprehensive\obj\Debug\comprehensive.pdb

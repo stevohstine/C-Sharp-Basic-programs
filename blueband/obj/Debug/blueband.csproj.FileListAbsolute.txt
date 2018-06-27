@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\bin\Debug\blueband.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\bin\Debug\blueband.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\bin\Debug\blueband.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\obj\Debug\blueband.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\obj\Debug\blueband.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\blueband\obj\Debug\blueband.csprojResolveAssemblyReference.cache

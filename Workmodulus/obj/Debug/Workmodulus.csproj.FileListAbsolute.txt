@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\bin\Debug\Workmodulus.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\bin\Debug\Workmodulus.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\bin\Debug\Workmodulus.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\obj\Debug\Workmodulus.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\obj\Debug\Workmodulus.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\Workmodulus\obj\Debug\Workmodulus.pdb

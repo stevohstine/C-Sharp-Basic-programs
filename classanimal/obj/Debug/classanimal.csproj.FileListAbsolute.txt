@@ -1,0 +1,5 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\classanimal\bin\Debug\classanimal.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\classanimal\bin\Debug\classanimal.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\classanimal\bin\Debug\classanimal.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\classanimal\obj\Debug\classanimal.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\classanimal\obj\Debug\classanimal.pdb

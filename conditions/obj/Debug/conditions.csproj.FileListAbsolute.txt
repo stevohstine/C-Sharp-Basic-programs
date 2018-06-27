@@ -1,0 +1,5 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\conditions\bin\Debug\conditions.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\conditions\bin\Debug\conditions.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\conditions\bin\Debug\conditions.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\conditions\obj\Debug\conditions.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\conditions\obj\Debug\conditions.pdb

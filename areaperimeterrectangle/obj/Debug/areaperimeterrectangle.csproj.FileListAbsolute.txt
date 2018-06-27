@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\bin\Debug\areaperimeterrectangle.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\bin\Debug\areaperimeterrectangle.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\bin\Debug\areaperimeterrectangle.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\obj\Debug\areaperimeterrectangle.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\obj\Debug\areaperimeterrectangle.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\areaperimeterrectangle\obj\Debug\areaperimeterrectangle.csprojResolveAssemblyReference.cache

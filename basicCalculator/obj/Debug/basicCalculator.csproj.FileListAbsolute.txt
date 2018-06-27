@@ -1,0 +1,7 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\bin\Debug\basicCalculator.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\bin\Debug\basicCalculator.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\bin\Debug\basicCalculator.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\obj\Debug\basicCalculator.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\obj\Debug\basicCalculator.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\obj\Debug\basicCalculator.csproj.CoreCompileInputs.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\basicCalculator\obj\Debug\basicCalculator.csprojAssemblyReference.cache

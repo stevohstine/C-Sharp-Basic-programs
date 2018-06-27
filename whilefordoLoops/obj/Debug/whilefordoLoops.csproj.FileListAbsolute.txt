@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\bin\Debug\whilefordoLoops.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\bin\Debug\whilefordoLoops.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\bin\Debug\whilefordoLoops.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\obj\Debug\whilefordoLoops.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\obj\Debug\whilefordoLoops.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\whilefordoLoops\obj\Debug\whilefordoLoops.pdb

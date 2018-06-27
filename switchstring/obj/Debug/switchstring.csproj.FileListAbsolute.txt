@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\bin\Debug\switchstring.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\bin\Debug\switchstring.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\bin\Debug\switchstring.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\obj\Debug\switchstring.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\obj\Debug\switchstring.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\switchstring\obj\Debug\switchstring.pdb

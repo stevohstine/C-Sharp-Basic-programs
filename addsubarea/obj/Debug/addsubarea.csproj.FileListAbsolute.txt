@@ -1,0 +1,5 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\addsubarea\bin\Debug\addsubarea.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\addsubarea\bin\Debug\addsubarea.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\addsubarea\bin\Debug\addsubarea.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\addsubarea\obj\Debug\addsubarea.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\addsubarea\obj\Debug\addsubarea.pdb

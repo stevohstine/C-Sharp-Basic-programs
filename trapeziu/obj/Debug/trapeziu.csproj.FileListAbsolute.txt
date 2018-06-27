@@ -1,0 +1,6 @@
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\bin\Debug\trapeziu.exe.config
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\bin\Debug\trapeziu.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\bin\Debug\trapeziu.pdb
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\obj\Debug\trapeziu.csprojResolveAssemblyReference.cache
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\obj\Debug\trapeziu.exe
+E:\study\Programming\C# programming\C#practice CSK\csharpstudypracticeCSK\trapeziu\obj\Debug\trapeziu.pdb
